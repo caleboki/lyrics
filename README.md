@@ -1,0 +1,1 @@
+Clone the repo, then see the server and client directories for further instructions
